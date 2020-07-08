@@ -10,4 +10,10 @@ A set of values separated by spaces.
 ## Note
 - Scaling of X-axis is not much configured.
 - This Script doesnt calculate outliers.
-- Works properly for ideal range of values.
+- Works properly only for ideal range of values.
+
+## Author
+
+Abhishek Soni
+
+Email: abhisheksoni1998@gmail.com
