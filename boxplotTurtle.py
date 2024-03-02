@@ -77,6 +77,7 @@ class Boxplot:
         t.right(90)
         t.penup()
         t.forward(20)
+        turtle.Screen().exitonclick()
         
 
     def marking(self,t,s,f):
